@@ -22,7 +22,9 @@
 
   ## Usage
   
-  
+  ![screencapture-fathomless-springs-95691-cd55efad17fa-herokuapp-2024-05-03-00_07_06](https://github.com/Levangul/Levans-PWA-Text-Editor/assets/150108077/f8e87499-eff4-4c76-8fb6-dc4d5485c7b3)
+
+  https://fathomless-springs-95691-cd55efad17fa.herokuapp.com/
   
   ## License
  
